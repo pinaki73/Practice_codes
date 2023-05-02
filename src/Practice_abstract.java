@@ -7,7 +7,7 @@ public class Practice_abstract {
 }
 abstract class Vehicles {
     public void transportation() {
-        System.out.println("Vehicles move elements from one pkace to another");
+        System.out.println("Vehicles move elements from one place to another");
     }
     static class Car extends Vehicles {
         public void transportation(){

@@ -17,7 +17,7 @@ public class Snake_and_Ladder {
                     System.out.println("Its a Ladder");
                     System.out.println("The starting position is"+" " + startposition);
                 }else {
-                    startposition=startposition-roll;
+                    startposition = startposition - roll;
                     System.out.println("Its a snake ");
                     System.out.println("The starting position is"+" "+startposition);
                 }
